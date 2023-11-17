@@ -1,5 +1,3 @@
-import 'package:flutter/material.dart';
-
 List ShoesPicsDiscover = [
   {
     'name': 'Product Name',

@@ -3,20 +3,15 @@
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:flutter_staggered_grid_view/flutter_staggered_grid_view.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:flutter_vector_icons/flutter_vector_icons.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hive/hive.dart';
 import 'package:provider/provider.dart';
 import 'package:shewhead_shoes_app/model/const.dart';
-import 'package:shewhead_shoes_app/model/productmodel.dart';
 import 'package:shewhead_shoes_app/providers/product_notifier.dart';
 import 'package:shewhead_shoes_app/widgets/Catagory%20tab.dart';
-import 'package:shewhead_shoes_app/widgets/DiscovermoreScrection.dart';
 import 'package:shewhead_shoes_app/widgets/TostUtils.dart';
-import 'package:shewhead_shoes_app/widgets/bottomnavigationbar.dart';
-import 'package:shewhead_shoes_app/widgets/images.dart';
 import 'package:shewhead_shoes_app/widgets/productlistsItem.dart';
 import 'package:shewhead_shoes_app/widgets/textwidget.dart';
 

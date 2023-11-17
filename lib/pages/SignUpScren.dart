@@ -6,11 +6,9 @@ import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:shewhead_shoes_app/pages/Home_Page.dart';
 import 'package:shewhead_shoes_app/pages/LoginScreen.dart';
 import 'package:shewhead_shoes_app/pages/Splash_screen.dart';
 import 'package:shewhead_shoes_app/widgets/TostUtils.dart';
-import 'package:shewhead_shoes_app/widgets/bottomnavigationbar.dart';
 import 'package:shewhead_shoes_app/widgets/reusablebutton.dart';
 import 'package:shewhead_shoes_app/widgets/reusabletextField.dart';
 

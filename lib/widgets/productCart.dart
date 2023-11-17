@@ -1,8 +1,5 @@
 // ignore_for_file: prefer_const_constructors, non_constant_identifier_names, avoid_types_as_parameter_names
 
-import 'dart:ffi';
-
-import 'package:cached_network_image/cached_network_image.dart';
 import 'package:fancy_shimmer_image/fancy_shimmer_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';

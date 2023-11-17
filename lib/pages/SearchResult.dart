@@ -9,7 +9,6 @@ import 'package:shewhead_shoes_app/providers/product_notifier.dart';
 import 'package:shewhead_shoes_app/widgets/SearchFilterTabs.dart';
 import 'package:shewhead_shoes_app/widgets/productlistsItem.dart';
 import 'package:shewhead_shoes_app/widgets/textwidget.dart';
-import 'package:shewhead_shoes_app/widgets/viewmore.dart';
 
 class SearchResult extends StatelessWidget {
   const SearchResult({super.key});

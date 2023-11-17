@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'package:google_fonts/google_fonts.dart';
-
 typedef FontFamilyFunction = TextStyle Function({
   Color? color,
   FontWeight? fontWeight,
@@ -10,6 +8,7 @@ typedef FontFamilyFunction = TextStyle Function({
   TextDecoration? decoration,
 });
 
+// ignore: must_be_immutable
 class TextWidget extends StatelessWidget {
   final String text;
   final Color color;

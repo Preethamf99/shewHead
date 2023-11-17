@@ -22,8 +22,6 @@ class _CategoryMoreState extends State<CategoryMore> {
   bool showAllItems = false;
   @override
   Widget build(BuildContext context) {
-    List<Map<String, String>> displayedItems =
-        showAllItems ? CategoryImages : CategoryImages.take(2).toList();
     var productNotifier = Provider.of<ProductsNotifier>(context, listen: true);
     return Scaffold(
       appBar: AppBar(

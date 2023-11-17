@@ -5,13 +5,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:shewhead_shoes_app/auth/authservices.dart';
 import 'package:shewhead_shoes_app/on%20boarding%20screens/on%20boarding%20Screen1.dart';
 import 'package:shewhead_shoes_app/on%20boarding%20screens/on%20boarding%20Screen2.dart';
 import 'package:shewhead_shoes_app/on%20boarding%20screens/on%20boarding%20Screen3.dart';
 import 'package:shewhead_shoes_app/on%20boarding%20screens/on%20boarding%20Screen4.dart';
-
-import 'package:shewhead_shoes_app/pages/SignUpScren.dart';
 import 'package:shewhead_shoes_app/providers/pageprovider.dart';
 import 'package:shewhead_shoes_app/widgets/bottomnavigationbar.dart';
 import 'package:shewhead_shoes_app/widgets/onboardbtn.dart';
